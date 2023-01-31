@@ -17,3 +17,5 @@ A likely concern of investors is the cost of bike upkeep. The bikes used most fr
 Now that we've found the number of trips per bike during the month of August, we should figure out how long those rides are and if there are bikes that need more attention than others. We'll use the bike ID as a metric for this part of the analysis and create a packed bubbles visualization.
 
 How Variable Is Bike Utilization?
+
+As we begin to build our dashboard, consider our main objective: we want to show investors the most important relevant data so that they will support the Des Moines bike-sharing business.
