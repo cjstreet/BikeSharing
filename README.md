@@ -19,3 +19,5 @@ Now that we've found the number of trips per bike during the month of August, we
 How Variable Is Bike Utilization?
 
 As we begin to build our dashboard, consider our main objective: we want to show investors the most important relevant data so that they will support the Des Moines bike-sharing business.
+
+want to learn how the Citi Bike program works during the month of August in New York City.
