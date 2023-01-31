@@ -7,4 +7,13 @@ Using Tableau to analyze and visualize bikeshare data in NY.
 Now we're going to use the data to find the most popular stations in the city for starting a bike journey. Top Starting Locations.
 But where do they drop off the bikes? Top Ending Locations
 
-What can the data tell us about the riders themselves?
+What can the data tell us about the riders themselves? breakdown of riders by gender, 
+
+Let's take a look at the average duration of a bike ride, by age.
+
+What might the key costs be in a bike-share business? 
+A likely concern of investors is the cost of bike upkeep. The bikes used most frequently will probably be the ones that require the most maintenance, so we'll need to determine which bikes have the highest sum of "Number of Rides."
+
+Now that we've found the number of trips per bike during the month of August, we should figure out how long those rides are and if there are bikes that need more attention than others. We'll use the bike ID as a metric for this part of the analysis and create a packed bubbles visualization.
+
+How Variable Is Bike Utilization?
