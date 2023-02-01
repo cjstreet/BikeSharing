@@ -21,3 +21,8 @@ How Variable Is Bike Utilization?
 As we begin to build our dashboard, consider our main objective: we want to show investors the most important relevant data so that they will support the Des Moines bike-sharing business.
 
 want to learn how the Citi Bike program works during the month of August in New York City.
+
+Select your questions. During this step, you'll consider which results you want to share with your audience. What do they want to see? How can we use that information to make their decision-making process easier?
+Execute independent research. You'll need to look at other relevant pieces of information to build a bigger picture. Search other sources to find information that will make your visualization more powerful.
+Craft your Tableau story. This is when you create your story, primarily from worksheets and other visuals, with descriptions for each of them.
+Create a written analysis. The written analysis is intended to provide additional insight into what we're trying to convey to our audience. This is a good place to add extra detail so that everyone can get on the same page.
