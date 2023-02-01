@@ -2,6 +2,14 @@
 Using Tableau to analyze and visualize bikeshare data in NY. 
 
 convince investors that a bike-sharing program in Des Moines is a solid business proposal.
+For this analysis, you’ll use Pandas to change the "tripduration" column from an integer to a datetime datatype. Then, using the converted datatype, you’ll create a set of visualizations to:
+
+Show the length of time that bikes are checked out for all riders and genders
+Show the number of bike trips for all riders and genders for each hour of each day of the week
+Show the number of bike trips for each type of user and gender for each day of the week.
+Finally, you’ll add these new visualizations to the two you created in this module for your final presentation and analysis to pitch to investors.
+
+
 
 (1) what is the breakdown of annual subscribers vs. short-term customers, and (2) what are the peak hours for bike rentals? These answers will help you broker a strategic conversation with investors. There are more questions to ask the data, however. For example, what are the highest-traffic locations? Understanding both when and where people use Citi Bike will help you plan your pilot in Des Moines.
 
