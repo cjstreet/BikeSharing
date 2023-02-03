@@ -2,8 +2,9 @@
 Using Tableau to analyze and visualize bikeshare data in NY. 
 
 ## Objective:
-convince investors that a bike-sharing program in Des Moines is a solid business proposal.
+How variable is bike utilization? What might the key costs be in a bike-share business?
 
+The main objective is to show investors the most important relevant data from the bike-sharing program in New York, so that they will invest it the Des Moines bike-sharing business.
 
 
 1. Import citibike dataset into Jupyter NB. 
@@ -44,14 +45,13 @@ What can the data tell us about the riders themselves? breakdown of riders by ge
 
 Let's take a look at the average duration of a bike ride, by age.
 
-What might the key costs be in a bike-share business? 
+ 
 A likely concern of investors is the cost of bike upkeep. The bikes used most frequently will probably be the ones that require the most maintenance, so we'll need to determine which bikes have the highest sum of "Number of Rides."
 
 Now that we've found the number of trips per bike during the month of August, we should figure out how long those rides are and if there are bikes that need more attention than others. We'll use the bike ID as a metric for this part of the analysis and create a packed bubbles visualization.
 
-How Variable Is Bike Utilization?
 
-As we begin to build our dashboard, consider our main objective: we want to show investors the most important relevant data so that they will support the Des Moines bike-sharing business.
+
 
 want to learn how the Citi Bike program works during the month of August in New York City.
 
