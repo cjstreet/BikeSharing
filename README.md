@@ -4,7 +4,7 @@ Using Tableau to analyze and visualize bikeshare data in NY.
 ## Objective:
 The main objective is to show investors the most important relevant data from the bike-sharing program in New York, so that they will invest in the Des Moines bike-sharing business.
 
-In order to do this the following questions will need to be answerd:
+The following questions will need to be answered:
 1. How variable is bike utilization? 
 2. What might the key costs be in a bike-share business?
 3. What is the breakdown of annual subscribers vs. short-term customers?
@@ -19,6 +19,8 @@ In order to do this the following questions will need to be answerd:
 
 
 <hr>
+
+
 1. Import citibike dataset into Jupyter NB. 
 2. Use Pandas to convert `tripduration` column from an integer to a datatime datatype.
 3. Export converted citibike dataset to a csv file. 
