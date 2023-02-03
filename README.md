@@ -1,6 +1,15 @@
 # BikeSharing
 Using Tableau to analyze and visualize bikeshare data in NY. 
 
+Overview of the analysis: Explain the purpose of this analysis.
+Results: Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
+Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+
+
+
+
+
+
 convince investors that a bike-sharing program in Des Moines is a solid business proposal.
 For this analysis, you’ll use Pandas to change the "tripduration" column from an integer to a datetime datatype. Then, using the converted datatype, you’ll create a set of visualizations to:
 
