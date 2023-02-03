@@ -4,13 +4,15 @@ Using Tableau to analyze and visualize bikeshare data in NY.
 ## Objective:
 How variable is bike utilization? What might the key costs be in a bike-share business?
 
-The main objective is to show investors the most important relevant data from the bike-sharing program in New York, so that they will invest it the Des Moines bike-sharing business.
+The main objective is to show investors the most important relevant data from the bike-sharing program in New York, so that they will invest in the Des Moines bike-sharing business.
 
 
 1. Import citibike dataset into Jupyter NB. 
 2. Use Pandas to convert `tripduration` column from an integer to a datatime datatype.
-3. Use JavaScript and the D3.js library to retrieve the coordinates and magnitudes of the earthquakes from the GeoJSON data.
-4. Use the Leaflet library to plot the data on a Mapbox map through an API request and create interactivity for the earthquake data.
+3. Export converted citibike dataset to a csv file. 
+4. Import the dataset into Tableau.
+5. Build various visualizations and adding interactive filters
+6. Add these worksheets and dashboards to a Tableau story that details the overall analysis to pitch to investors.
 
 
 ## Resources
@@ -31,7 +33,7 @@ Summary: Provide a high-level summary of the results and two additional visualiz
 Show the length of time that bikes are checked out for all riders and genders
 Show the number of bike trips for all riders and genders for each hour of each day of the week
 Show the number of bike trips for each type of user and gender for each day of the week.
-Add these new visualizations to the two you created in this module for your final presentation and analysis to pitch to investors.
+
 
 
 
