@@ -14,9 +14,8 @@ The main objective is to show investors the most important relevant data from th
 
 
 ## Resources
-- Data Source: Earthquake data from the past 7 days is obtained in GeoJSON format from the USGS website
-Tectonic plate data is obtained in GeoJSON format from fraxen's GitHub repository
-- Software: HTML, CSS, JavaScript, D3, Leaflet, Mapbox, Visual Studio Code, 1.73.0
+- Data Source: 
+- Software: Jupyter NB, Pandas, and Tableau Public Edition
 
 ## Results:
 
@@ -32,7 +31,7 @@ Summary: Provide a high-level summary of the results and two additional visualiz
 Show the length of time that bikes are checked out for all riders and genders
 Show the number of bike trips for all riders and genders for each hour of each day of the week
 Show the number of bike trips for each type of user and gender for each day of the week.
-Finally, you’ll add these new visualizations to the two you created in this module for your final presentation and analysis to pitch to investors.
+Add these new visualizations to the two you created in this module for your final presentation and analysis to pitch to investors.
 
 
 
