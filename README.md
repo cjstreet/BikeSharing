@@ -2,10 +2,12 @@
 Using Tableau to analyze and visualize bikeshare data in NY. 
 
 ## Objective:
-The objective is to use a URL for GeoJSON earthquake data from the USGS website and retrieve geographical coordinates and the magnitudes of earthquakes for the last seven days. Create an interactive map with three different map styles, displaying earthquake and tectonic data, using styles to display earthquake data based on magnitude, and using lineString to display tectonic plate data.  
+convince investors that a bike-sharing program in Des Moines is a solid business proposal.
 
-1. Create webpage with HTML. 
-2. Add style and legend with CSS.
+
+
+1. Import citibike dataset into Jupyter NB. 
+2. Use Pandas to convert `tripduration` column from an integer to a datatime datatype.
 3. Use JavaScript and the D3.js library to retrieve the coordinates and magnitudes of the earthquakes from the GeoJSON data.
 4. Use the Leaflet library to plot the data on a Mapbox map through an API request and create interactivity for the earthquake data.
 
@@ -24,8 +26,7 @@ Tectonic plate data is obtained in GeoJSON format from fraxen's GitHub repositor
 Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
 
 
-convince investors that a bike-sharing program in Des Moines is a solid business proposal.
-For this analysis, you’ll use Pandas to change the "tripduration" column from an integer to a datetime datatype. Then, using the converted datatype, you’ll create a set of visualizations to:
+
 
 Show the length of time that bikes are checked out for all riders and genders
 Show the number of bike trips for all riders and genders for each hour of each day of the week
