@@ -2,9 +2,22 @@
 Using Tableau to analyze and visualize bikeshare data in NY. 
 
 ## Objective:
-How variable is bike utilization? What might the key costs be in a bike-share business?
-
 The main objective is to show investors the most important relevant data from the bike-sharing program in New York, so that they will invest in the Des Moines bike-sharing business.
+
+In order to do this the following questions will need to be answerd:
+1. How variable is bike utilization? 
+2. What might the key costs be in a bike-share business?
+3. What is the breakdown of annual subscribers vs. short-term customers?
+4. What are the peak hours for bike rentals? 
+5. What are the highest-traffic locations? 
+6. When and where do people use Citi Bike?
+7. Whats the average duration of a trip by age?
+8. Which genders utilize bike-sharing?
+9. How does the Citi Bike program work during the month of August in New York City?
+10. What are the most popular starting and stopping stations?
+11. How often are bikes used? How often do they need repairs?
+
+
 
 1. Import citibike dataset into Jupyter NB. 
 2. Use Pandas to convert `tripduration` column from an integer to a datatime datatype.
@@ -28,32 +41,5 @@ The main objective is to show investors the most important relevant data from th
 
 
 Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
-
-
-
-
-
-
-
-
-
-(1) what is the breakdown of annual subscribers vs. short-term customers, and (2) what are the peak hours for bike rentals? These answers will help you broker a strategic conversation with investors. There are more questions to ask the data, however. For example, what are the highest-traffic locations? Understanding both when and where people use Citi Bike will help you plan your pilot in Des Moines.
-
-Now we're going to use the data to find the most popular stations in the city for starting a bike journey. Top Starting Locations.
-But where do they drop off the bikes? Top Ending Locations
-
-What can the data tell us about the riders themselves? breakdown of riders by gender, 
-
-Let's take a look at the average duration of a bike ride, by age.
-
- 
-A likely concern of investors is the cost of bike upkeep. The bikes used most frequently will probably be the ones that require the most maintenance, so we'll need to determine which bikes have the highest sum of "Number of Rides."
-
-Now that we've found the number of trips per bike during the month of August, we should figure out how long those rides are and if there are bikes that need more attention than others. We'll use the bike ID as a metric for this part of the analysis and create a packed bubbles visualization.
-
-
-
-
-want to learn how the Citi Bike program works during the month of August in New York City.
 
 
