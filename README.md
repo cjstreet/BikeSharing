@@ -1,13 +1,27 @@
 # BikeSharing
 Using Tableau to analyze and visualize bikeshare data in NY. 
 
-Overview of the analysis: Explain the purpose of this analysis.
-Results: Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
+## Objective:
+The objective is to use a URL for GeoJSON earthquake data from the USGS website and retrieve geographical coordinates and the magnitudes of earthquakes for the last seven days. Create an interactive map with three different map styles, displaying earthquake and tectonic data, using styles to display earthquake data based on magnitude, and using lineString to display tectonic plate data.  
+
+1. Create webpage with HTML. 
+2. Add style and legend with CSS.
+3. Use JavaScript and the D3.js library to retrieve the coordinates and magnitudes of the earthquakes from the GeoJSON data.
+4. Use the Leaflet library to plot the data on a Mapbox map through an API request and create interactivity for the earthquake data.
+
+
+## Resources
+- Data Source: Earthquake data from the past 7 days is obtained in GeoJSON format from the USGS website
+Tectonic plate data is obtained in GeoJSON format from fraxen's GitHub repository
+- Software: HTML, CSS, JavaScript, D3, Leaflet, Mapbox, Visual Studio Code, 1.73.0
+
+## Results:
+
+### Interactive Map
+<a href="https://cjstreet.github.io/Mapping_Earthquakes/Earthquake_Challenge/">Earthquake_Challenge</a>
+
+
 Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
-
-
-
-
 
 
 convince investors that a bike-sharing program in Des Moines is a solid business proposal.
@@ -40,7 +54,4 @@ As we begin to build our dashboard, consider our main objective: we want to show
 
 want to learn how the Citi Bike program works during the month of August in New York City.
 
-Select your questions. During this step, you'll consider which results you want to share with your audience. What do they want to see? How can we use that information to make their decision-making process easier?
-Execute independent research. You'll need to look at other relevant pieces of information to build a bigger picture. Search other sources to find information that will make your visualization more powerful.
-Craft your Tableau story. This is when you create your story, primarily from worksheets and other visuals, with descriptions for each of them.
-Create a written analysis. The written analysis is intended to provide additional insight into what we're trying to convey to our audience. This is a good place to add extra detail so that everyone can get on the same page.
+
