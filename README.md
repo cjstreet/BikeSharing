@@ -21,6 +21,7 @@ The following questions will need to be answered:
 <hr>
 
 
+**Steps:** 
 1. Import citibike dataset into Jupyter NB. 
 2. Use Pandas to convert `tripduration` column from an integer to a datatime datatype.
 3. Export converted citibike dataset to a csv file. 
