@@ -18,7 +18,7 @@ In order to do this the following questions will need to be answerd:
 11. How often are bikes used? How often do they need repairs?
 
 
-
+<hr>
 1. Import citibike dataset into Jupyter NB. 
 2. Use Pandas to convert `tripduration` column from an integer to a datatime datatype.
 3. Export converted citibike dataset to a csv file. 
@@ -37,7 +37,7 @@ In order to do this the following questions will need to be answerd:
 ## Results:
 
 ### Interactive Dashboard
-<a href="https://cjstreet.github.io/Mapping_Earthquakes/Earthquake_Challenge/">Earthquake_Challenge</a>
+<a href="https://public.tableau.com/app/profile/christy.street/viz/CStreet_RideSharing/NewYorkStory?publish=yes">Invest In Bike-Sharing</a>
 
 
 Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
