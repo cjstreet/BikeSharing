@@ -16,7 +16,7 @@ The main objective is to show investors the most important relevant data from th
 
 
 ## Resources
-- Data Source: 
+- Data Source: https://citibikenyc.com/system-data, 201908-citibike-tripdata.csv
 - Software: Jupyter NB, Pandas, and Tableau Public Edition
 
 ## Results:
