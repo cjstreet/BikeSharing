@@ -27,9 +27,9 @@ The following questions will need to be answered:
 3. Export converted citibike dataset to a csv file. 
 4. Import the dataset into Tableau.
 5. Build various visualizations and adding interactive filters
-    a. Thelength of time that bikes are checked out for all riders and genders
-    b. The number of bike trips for all riders and genders for each hour of each day of the week
-    c. The number of bike trips for each type of user and gender for each day of the week.
+    - a. Thelength of time that bikes are checked out for all riders and genders
+    - b. The number of bike trips for all riders and genders for each hour of each day of the week
+    - c. The number of bike trips for each type of user and gender for each day of the week.
 6. Add these worksheets and dashboards to a Tableau story that details the overall analysis to pitch to investors.
 
 
@@ -45,4 +45,6 @@ The following questions will need to be answered:
 
 Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
 
+Produce a visualization that would give us the average age of riders. 
+Although, the data isn't available in the dataset, it would be valuable to know how much money the program is generating and spending. 
 
