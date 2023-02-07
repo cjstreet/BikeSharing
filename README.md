@@ -27,8 +27,8 @@ The following questions will need to be answered:
 3. Export converted citibike dataset to a csv file. 
 4. Import the dataset into Tableau.
 5. Build various visualizations and adding interactive filters
-    - a. Thelength of time that bikes are checked out for all riders and genders
-    - b. The number of bike trips for all riders and genders for each hour of each day of the week
+    - a. The length of time that bikes are checked out for all riders and genders.
+    - b. The number of bike trips for all riders and genders for each hour of each day of the week.
     - c. The number of bike trips for each type of user and gender for each day of the week.
 6. Add these worksheets and dashboards to a Tableau story that details the overall analysis to pitch to investors.
 
@@ -39,12 +39,14 @@ The following questions will need to be answered:
 
 ## Results:
 
-### Interactive Dashboard
+## Interactive Dashboard
 <a href="https://public.tableau.com/app/profile/christy.street/viz/CStreet_RideSharing/NewYorkStory?publish=yes">Invest In Bike-Sharing</a>
 
+## Summary: 
 
-Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+In New York, there are over 2 million rides on the Citi Bike-Sharing program. The average user is a male subscriber that uses the bike to most likely commute to work. The busiest times for rides are around 8am and 5pm, Monday thru Friday. The average duration of a ride is about 5 minutes. It appears that the bikes are a vital resource to the people of New York. Depending on the sustainability of the program financially this would be a good investment for any large condensed urban city. Des Moines may not have a similar urban infrastructure as New York and if riders had to commute over 5 minutes to work they might not use bike-sharing.
 
-Produce a visualization that would give us the average age of riders. 
-Although, the data isn't available in the dataset, it would be valuable to know how much money the program is generating and spending. 
+Two additional visualizations should be considered:
+1. Produce a visualization that would give us the average age of riders. 
+2. Although, the data isn't available in the dataset, it would be valuable to know how much money the program is generating and spending. 
 
